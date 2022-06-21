@@ -1,0 +1,4 @@
+INSERT_UPDATE WrongEntity; code[unique = true]    
+                         ; test1    
+                         ; test2 
+						 

@@ -1,0 +1,4 @@
+INSERT_UPDATE LocalizationEntry; code[unique = true]                ; translation[lang = en]                                                                                      ; translation[lang = de]
+                               ; email.invalid                      ; "Please enter a valid email"                                                                                ; "Bitte geben Sie eine gültige E-Mail-Adresse ein"                                                                                              ;
+                               ; emailPriceDroppedEmailSubject      ; "Price Dropped Reminder"                                                                                    ; "Erinnerung an gesunkenen Preis"                                                                                                               ;
+ 
